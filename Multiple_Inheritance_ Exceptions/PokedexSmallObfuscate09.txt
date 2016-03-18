@@ -1,0 +1,190 @@
+{
+	label : intuitive
+	species : Wool
+	types : [ Electric ]
+	abilities : [ 150 0 108 ]
+	genderThreshold : 127
+	catchRate : 235
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 0.600000
+	weight : 7.800000
+	baseExpYield : 56
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 1 0 0 ]
+	bodyStyle : "Pokemon with a quadruped body"
+	color : White
+	baseStats : [ 55 40 40 65 45 35 ]
+}
+{
+	label : pokey
+	species : Wool
+	types : [ Electric ]
+	abilities : [ 150 0 108 ]
+	genderThreshold : 127
+	catchRate : 120
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 0.800000
+	weight : 13.300000
+	baseExpYield : 128
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 2 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Pink
+	baseStats : [ 70 55 55 80 60 45 ]
+}
+{
+	label : frail
+	species : Light
+	types : [ Electric ]
+	abilities : [ 150 0 108 ]
+	genderThreshold : 127
+	catchRate : 45
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 1.400000
+	weight : 61.500000
+	baseExpYield : 225
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 3 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Yellow
+	baseStats : [ 90 75 85 115 90 55 ]
+}
+{
+	label : stale
+	species : WaterWeed
+	types : [ Water Grass ]
+	abilities : [ 161 117 103 ]
+	genderThreshold : 127
+	catchRate : 255
+	eggGroups : [ Water1 Grass ]
+	hatchCounter : 15
+	height : 0.500000
+	weight : 2.600000
+	baseExpYield : 44
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 0 1 0 ]
+	bodyStyle : "Pokemon with two or more pairs of wings"
+	color : Green
+	baseStats : [ 40 30 30 40 50 30 ]
+}
+{
+	label : bloodcurdling
+	species : Jolly
+	types : [ Water Grass ]
+	abilities : [ 161 117 103 ]
+	genderThreshold : 127
+	catchRate : 120
+	eggGroups : [ Water1 Grass ]
+	hatchCounter : 15
+	height : 1.200000
+	weight : 32.500000
+	baseExpYield : 119
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 0 2 0 ]
+	bodyStyle : "Pokemon with a bipedal tailless form"
+	color : Green
+	baseStats : [ 60 50 50 60 70 50 ]
+}
+{
+	label : faithful
+	species : Carefree
+	types : [ Water Grass ]
+	abilities : [ 161 117 103 ]
+	genderThreshold : 127
+	catchRate : 45
+	eggGroups : [ Water1 Grass ]
+	hatchCounter : 15
+	height : 1.500000
+	weight : 55.000000
+	baseExpYield : 216
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 0 0 0 3 0 ]
+	bodyStyle : "Pokemon with a bipedal tailless form"
+	color : Green
+	baseStats : [ 80 70 70 90 100 70 ]
+}
+{
+	label : reclusive
+	species : HeadButt
+	types : [ Rock ]
+	abilities : [ 90 0 135 ]
+	genderThreshold : 31
+	catchRate : 45
+	eggGroups : [ Monster ]
+	hatchCounter : 30
+	height : 0.900000
+	weight : 31.500000
+	baseExpYield : 70
+	baseFriendship : 70
+	expGroup : 5
+	evYield : [ 0 1 0 0 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Blue
+	baseStats : [ 67 125 40 30 30 58 ]
+}
+{
+	label : flowing
+	species : HeadButt
+	types : [ Rock ]
+	abilities : [ 90 0 135 ]
+	genderThreshold : 31
+	catchRate : 45
+	eggGroups : [ Monster ]
+	hatchCounter : 30
+	height : 1.600000
+	weight : 102.500000
+	baseExpYield : 173
+	baseFriendship : 70
+	expGroup : 5
+	evYield : [ 0 2 0 0 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Blue
+	baseStats : [ 97 165 60 65 50 58 ]
+}
+{
+	label : talented
+	species : Diapered
+	types : [ Dark Flying ]
+	abilities : [ 13 101 184 ]
+	genderThreshold : 254
+	catchRate : 190
+	eggGroups : [ Flying ]
+	hatchCounter : 20
+	height : 0.500000
+	weight : 9.000000
+	baseExpYield : 74
+	baseFriendship : 35
+	expGroup : 1
+	evYield : [ 0 0 1 0 0 0 ]
+	bodyStyle : "Pokemon with a single pair of wings"
+	color : Brown
+	baseStats : [ 70 55 75 45 65 60 ]
+}
+{
+	label : unearthly
+	species : BoneVulture
+	types : [ Dark Flying ]
+	abilities : [ 13 101 184 ]
+	genderThreshold : 254
+	catchRate : 60
+	eggGroups : [ Flying ]
+	hatchCounter : 20
+	height : 1.200000
+	weight : 39.500000
+	baseExpYield : 179
+	baseFriendship : 35
+	expGroup : 1
+	evYield : [ 0 0 0 2 0 0 ]
+	bodyStyle : "Pokemon with a single pair of wings"
+	color : Brown
+	baseStats : [ 110 65 105 55 95 80 ]
+}

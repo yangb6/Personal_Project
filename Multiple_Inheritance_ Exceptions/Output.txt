@@ -1,0 +1,16 @@
+  1 Ampharos(s):    Ampharos
+  2 Cranidos(s):    Cranidos Rampardos
+  4 Field(s):       Ampharos Flaaffy Mareep NidoranFemale
+  2 Flaaffy(s):     Ampharos Flaaffy
+  2 Flying(s):      Mandibuzz Vullaby
+  3 Grass(s):       Lombre Lotad Ludicolo
+  2 Lombre(s):      Lombre Ludicolo
+  3 Lotad(s):       Lombre Lotad Ludicolo
+  1 Ludicolo(s):    Ludicolo
+  1 Mandibuzz(s):   Mandibuzz
+  4 Mareep(s):      Ampharos Flaaffy Mareep NidoranFemale
+  6 Monster(s):     Ampharos Cranidos Flaaffy Mareep NidoranFemale Rampardos
+721 Pokemon(s):    
+  1 Rampardos(s):   Rampardos
+  2 Vullaby(s):     Mandibuzz Vullaby
+  3 Water1(s):      Lombre Lotad Ludicolo

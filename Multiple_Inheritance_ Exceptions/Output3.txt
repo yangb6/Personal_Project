@@ -1,0 +1,16 @@
+ 10 Grass(s):       bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+ 10 Lombre(s):      bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+ 10 Lotad(s):       bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+ 10 Ludicolo(s):    bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+ 10 Pokemon(s):     bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+ 10 Water1(s):      bloodcurdling faithful flowing frail intuitive pokey reclusive stale talented unearthly
+intuitive can breed with:  pokey frail reclusive flowing
+pokey can breed with:  intuitive frail reclusive flowing
+frail can breed with:  intuitive pokey reclusive flowing
+stale can breed with:  bloodcurdling faithful
+bloodcurdling can breed with:  stale faithful
+faithful can breed with:  stale bloodcurdling
+reclusive can breed with:  intuitive pokey frail flowing
+flowing can breed with:  intuitive pokey frail reclusive
+talented can breed with:  unearthly
+unearthly can breed with:  talented

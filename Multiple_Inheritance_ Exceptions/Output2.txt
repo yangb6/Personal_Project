@@ -1,0 +1,16 @@
+ 10 Grass(s):       Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+ 10 Lombre(s):      Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+ 10 Lotad(s):       Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+ 10 Ludicolo(s):    Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+ 10 Pokemon(s):     Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+ 10 Water1(s):      Ampharos Cranidos Flaaffy Lombre Lotad Ludicolo Mandibuzz Mareep Rampardos Vullaby
+Mareep can breed with:  Flaaffy Ampharos Cranidos Rampardos
+Flaaffy can breed with:  Mareep Ampharos Cranidos Rampardos
+Ampharos can breed with:  Mareep Flaaffy Cranidos Rampardos
+Lotad can breed with:  Lombre Ludicolo
+Lombre can breed with:  Lotad Ludicolo
+Ludicolo can breed with:  Lotad Lombre
+Cranidos can breed with:  Mareep Flaaffy Ampharos Rampardos
+Rampardos can breed with:  Mareep Flaaffy Ampharos Cranidos
+Vullaby can breed with:  Mandibuzz
+Mandibuzz can breed with:  Vullaby
